@@ -13,8 +13,8 @@ The server
 
 The Client
 
-- I have used the *src/test/java/"internship.project.test.requests"* package to write my code for FHIR client as per [documentation of HAPI](https://hapifhir.io/hapi-fhir/docs/).
-- I have written a couple of test cases which you can find in the *src/test/resources/"clientTests"*. These are a few json documents and a test pdf file which I have used for my demo.
+- I have used the *"internship.project.test.requests"* package: [Link to my client tests](https://github.com/sharvkk/cotiviti-summer-internship/tree/main/demo-code/src/test/java/internship/project/test/requests); to write my code for FHIR client as per [documentation of HAPI](https://hapifhir.io/hapi-fhir/docs/).
+- I have written a couple of test cases which you can find in the *"clientTests"* package: [Link to test cases](https://github.com/sharvkk/cotiviti-summer-internship/tree/main/demo-code/src/test/resources/clientTests). These are a few json documents and a test pdf file which I have used for my demo.
 
 
 ## Test Cases
