@@ -1,0 +1,19 @@
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [
+      {
+        "system": "http://example2.org",
+        "code": "789-8",
+        "display": "Erythrocytes [#/volume] in Blood by Automated count"
+      }
+    ]
+  },
+  "valueQuantity": {
+    "value": 3.87,
+    "unit": "10 trillion/L",
+    "system": "http://unitsofmeasure.org",
+    "code": "10*12/L"
+  }
+}

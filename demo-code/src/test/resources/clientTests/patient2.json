@@ -1,0 +1,21 @@
+{
+  "resourceType" : "Patient",
+  "identifier" : [{
+    "system": "http://example.org/clients",
+    "value" : "2"
+  }],
+  "active" : true,
+  "name" : [{
+    "family" : "Johnson",
+    "given" : ["Tracy"]
+  }],
+  "gender" : "male",
+  "birthDate" : "1956-05-27",
+  "address" : [{
+    "line" : ["100 Main St"],
+    "city" : "Metropolis",
+    "state" : "Il",
+    "postalCode" : "44130",
+    "country" : "USA"
+  }]
+}

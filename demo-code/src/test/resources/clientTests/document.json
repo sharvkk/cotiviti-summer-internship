@@ -1,0 +1,56 @@
+{
+  "resourceType": "DocumentReference",
+  "identifier": [
+    {
+      "system": "http://example.org/docs",
+      "value": "1"
+    }
+  ],
+  "status": "current",
+  "type": {
+    "coding": [
+      {
+        "system": "http://ihe.net/connectathon/classCodes",
+        "code": "History and Physical",
+        "display": "History and Physical"
+      }
+    ]
+  },
+  "category": [
+    {
+      "coding": [
+        {
+          "system": "http://loinc.org",
+          "code": "47039-3",
+          "display": "Inpatient Admission history and physical note"
+        }
+      ]
+    }
+  ],
+  "practiceSetting": {
+    "coding": [
+      {
+        "system": "http://ihe.net/connectathon/practiceSettingCodes",
+        "code": "General Medicine",
+        "display": "General Medicine"
+      }
+    ]
+  },
+  "period": {
+    "start": "2004-12-23T08:00:00+10:00",
+    "end": "2004-12-23T08:01:00+10:00"
+  },
+  "date": "2013-07-01T23:11:33+10:00",
+  "description": "Physical",
+  "securityLabel": [
+    {
+      "coding": [
+        {
+          "system": "http://terminology.hl7.org/CodeSystem/v3-Confidentiality",
+          "code": "N",
+          "display": "normal"
+        }
+      ]
+    }
+  ]
+}
